@@ -1,23 +1,20 @@
----
-title: Annika Bergstrom
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        Lorem ipsum
+    </title>
+</head>
+<body> 
+  <h1>
+    Lorem ipsum 
+  </h1> 
+ <p> 
+    dolor sit amet, consectetur adipiscing <strong> elit </strong>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ </p>
+ <p> 
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+</p>
+</body>
+</html>
 
-# This is the homepage of my website
-You can find my [Resume](resume) here!
-
-[Contact me](#contact-information)
-## Bio 
-
-## Projects 
-I've worked on a wide variety of projects, mostly focused in the world of literary adaptation and analysis. 
-
-I directed a production of [Antigone](antigone) in 2026 
-
-I conducted independent research under a Hanna Holborn Gray Fellowship 
-
-I attendend the Macksey Symposium in 2025 
-
-I was published in [Intarsia](https://www.intarsiajournal.org/2025/03/17/weve-sung-this-song-a-thousand-times-before-reproductive-futurity-in-the-ninth-hour/)
-
-## Contact Information
